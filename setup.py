@@ -10,7 +10,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="Topsis-Garima-102203385",
-    version="1.0.0",
+    version="1.0.1",
     description="Perform TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) analysis on a dataset.",
     long_description=README,
     long_description_content_type="text/markdown",
