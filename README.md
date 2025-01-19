@@ -42,4 +42,5 @@ The output file will include:
 
 ## License
 © 2025 Garima Ahuja
+
 This repository is licensed under the MIT license. See LICENSE for details.
